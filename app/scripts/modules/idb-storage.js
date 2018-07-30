@@ -16,7 +16,7 @@ limitations under the License.
 
 import * as idb from 'idb';
 
-const CART_STORE = 'cart';
+const CART_STORE = 'cart-project';
 const RW = 'readwrite';
 
 export default class IDBStorage {
